@@ -1,0 +1,3 @@
+#primary vocabulary
+##food
+>bread 
